@@ -1,1 +1,2 @@
-# 1920-5bhif-nvs-udacity-labs-MaxiHofer
+# Udacity-Course-Android
+# Maxi Hofer
