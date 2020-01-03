@@ -56,11 +56,6 @@ class GameViewModel : ViewModel() {
         timer.start()
     }
 
-    override fun onCleared() {
-        super.onCleared()
-        Log.i("GameViewModel", "GameViewModel destroyed!")
-    }
-
     private fun resetList() {
         wordList = mutableListOf(
                 "queen",
