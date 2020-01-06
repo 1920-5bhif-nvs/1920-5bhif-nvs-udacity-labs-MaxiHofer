@@ -40,4 +40,4 @@ class VideosRepository(private val database: VideosDatabase) {
             database.videoDao.insertAll(*playlist.asDatabaseModel())
         }
     }
-} 
+}
